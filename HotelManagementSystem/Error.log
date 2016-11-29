@@ -1,0 +1,24 @@
+May-20-2008~~~~~3:59:32 PM~~~~~3021~~~~~Either BOF or EOF is True, or the current record has been deleted. Requested operation requires a current record.~~~~~frmCheckIn~~~~~DisplayForEditing
+May-22-2008~~~~~7:27:16 PM~~~~~-2147217904~~~~~No value given for one or more required parameters.~~~~~frmCheckIn~~~~~cmdSave_Click
+May-22-2008~~~~~7:30:43 PM~~~~~-2147217904~~~~~No value given for one or more required parameters.~~~~~frmCheckIn~~~~~DisplayForEditing
+May-22-2008~~~~~8:44:06 PM~~~~~-2147217904~~~~~No value given for one or more required parameters.~~~~~frmReservation~~~~~DisplayForEditing
+May-22-2008~~~~~8:44:13 PM~~~~~-2147217904~~~~~No value given for one or more required parameters.~~~~~frmReservation~~~~~DisplayForEditing
+May-22-2008~~~~~8:44:43 PM~~~~~-2147217904~~~~~No value given for one or more required parameters.~~~~~frmReservation~~~~~DisplayForEditing
+May-22-2008~~~~~8:44:47 PM~~~~~-2147217904~~~~~No value given for one or more required parameters.~~~~~frmReservation~~~~~DisplayForEditing
+May-24-2008~~~~~2:42:26 PM~~~~~3021~~~~~Either BOF or EOF is True, or the current record has been deleted. Requested operation requires a current record.~~~~~frmCheckIn~~~~~DisplayForEditing
+May-24-2008~~~~~2:42:37 PM~~~~~3021~~~~~Either BOF or EOF is True, or the current record has been deleted. Requested operation requires a current record.~~~~~frmCheckIn~~~~~DisplayForEditing
+May-24-2008~~~~~2:45:10 PM~~~~~3021~~~~~Either BOF or EOF is True, or the current record has been deleted. Requested operation requires a current record.~~~~~frmCheckIn~~~~~DisplayForEditing
+May-24-2008~~~~~3:44:42 PM~~~~~-2147217904~~~~~No value given for one or more required parameters.~~~~~frmReservation~~~~~cmdSave_Click
+May-24-2008~~~~~3:44:45 PM~~~~~-2147217904~~~~~No value given for one or more required parameters.~~~~~frmReservation~~~~~cmdSave_Click
+May-28-2008~~~~~10:53:42 PM~~~~~-2147217900~~~~~Syntax error (missing operator) in query expression '203 - Deluxe Room'.~~~~~frmReservation~~~~~cmdSave_Click
+May-28-2008~~~~~10:54:24 PM~~~~~-2147217864~~~~~Row cannot be located for updating. Some values may have been changed since it was last read.~~~~~frmReservation~~~~~cmdSave_Click
+May-29-2008~~~~~10:21:03 AM~~~~~3021~~~~~Either BOF or EOF is True, or the current record has been deleted. Requested operation requires a current record.~~~~~frmCheckIn~~~~~DisplayForEditing
+May-29-2008~~~~~10:21:06 AM~~~~~3021~~~~~Either BOF or EOF is True, or the current record has been deleted. Requested operation requires a current record.~~~~~frmCheckIn~~~~~DisplayForEditing
+May-29-2008~~~~~10:21:50 AM~~~~~3021~~~~~Either BOF or EOF is True, or the current record has been deleted. Requested operation requires a current record.~~~~~frmCheckIn~~~~~DisplayForEditing
+May-29-2008~~~~~10:22:31 AM~~~~~3021~~~~~Either BOF or EOF is True, or the current record has been deleted. Requested operation requires a current record.~~~~~frmCheckIn~~~~~DisplayForEditing
+Jun-04-2008~~~~~10:55:53 PM~~~~~-2147217865~~~~~The Microsoft Jet database engine cannot find the input table or query 'Time Table'.  Make sure it exists and that its name is spelled correctly.~~~~~frmReservation~~~~~cmdSave_Click
+Jul-01-2008~~~~~8:07:53 PM~~~~~-2147217900~~~~~Syntax error (missing operator) in query expression 'WHERE ReservationNo = 08-00060'.~~~~~frmReservation~~~~~CmdCheckIn_Click
+Jul-01-2008~~~~~8:08:40 PM~~~~~-2147217900~~~~~Syntax error (missing operator) in query expression 'WHERE ReservationNo = '08-00060''.~~~~~frmReservation~~~~~CmdCheckIn_Click
+Jul-01-2008~~~~~8:10:43 PM~~~~~-2147217900~~~~~Syntax error (missing operator) in query expression 'WHERE ReservationNo = '08-00060''.~~~~~frmReservation~~~~~CmdCheckIn_Click
+Jul-09-2010~~~~~8:36:26 PM~~~~~3021~~~~~Either BOF or EOF is True, or the current record has been deleted. Requested operation requires a current record.~~~~~frmCheckOut~~~~~txtDays_Change
+Jul-09-2010~~~~~8:36:42 PM~~~~~3021~~~~~Either BOF or EOF is True, or the current record has been deleted. Requested operation requires a current record.~~~~~frmCheckOut~~~~~txtDays_Change

@@ -1,0 +1,2 @@
+[Configuration]
+Path=E:\Beta\HotelManagementSystem2\Data\data.mdb
