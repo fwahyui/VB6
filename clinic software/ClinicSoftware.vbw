@@ -1,0 +1,5 @@
+frmPatient = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Form1 = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+DataEnvironment1 = 0, 0, 0, 0, C, 22, 29, 520, 548, C
+MedicalReport = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmReport = 0, 0, 0, 0, C, 0, 0, 0, 0, C

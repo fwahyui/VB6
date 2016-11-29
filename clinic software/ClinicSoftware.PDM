@@ -1,0 +1,110 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=F:\Heaven soft projects\Trial versions\1clinic\Clinic\Package
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+
+[Package|Standard Setup Package 1|Files Added]
+F:\Heaven soft projects\Trial versions\1clinic\Clinic\Package\clinic.mdb=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+F:\Heaven soft projects\Trial versions\1clinic\Clinic\ClinicSoftware.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+E:\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\Program Files\Common Files\designer\MSDERUN.DLL=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+E:\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+E:\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+E:\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+E:\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+F:\Heaven soft projects\Trial versions\1clinic\Clinic\Package\clinic.mdb=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+F:\Heaven soft projects\Trial versions\1clinic\Clinic\ClinicSoftware.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+E:\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\Program Files\Common Files\designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+E:\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+E:\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+E:\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+E:\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+F:\Heaven soft projects\Trial versions\1clinic\Clinic\Package\clinic.mdb=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+F:\Heaven soft projects\Trial versions\1clinic\Clinic\ClinicSoftware.exe=Yes
+E:\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+F:\Heaven soft projects\Trial versions\1clinic\Clinic\Package\clinic.mdb=Yes
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=ClinicSoftware
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=F:\Heaven soft projects\Trial versions\1clinic\Clinic\Package
+ProjectFolder=F:\Heaven soft projects\Trial versions\1clinic\Clinic
+ServerSideCab=
+File1=F:\Heaven soft projects\Trial versions\1clinic\Clinic\Package\setup.exe
+File2=F:\Heaven soft projects\Trial versions\1clinic\Clinic\Package\Setup.Lst
+File3=F:\Heaven soft projects\Trial versions\1clinic\Clinic\Package\ClinicSoftware.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=ClinicSoftware
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|ClinicSoftware]
+Icon1=ClinicSoftware.exe
+Title1=ClinicSoftware
+StartIn1=$(AppPath)
+Key1=Icon1
