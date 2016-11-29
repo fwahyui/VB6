@@ -1,0 +1,17 @@
+frmguru = 125, 125, 873, 560, C, 0, 0, 748, 435, C
+index = 50, 50, 999, 251, C, 25, 25, 773, 460, C
+Module1 = 0, 0, 949, 229, C
+frmentrysiswa = 75, 75, 823, 510, C, 100, 100, 848, 535, C
+frmkonseling = 0, 0, 0, 0, C, 25, 25, 773, 460, C
+frmcaribim = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+CrystalReport1 = 0, 0, 0, 0, C, 25, 25, 797, 695, C
+FRMSETUPPRINT = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmdaftarsiswa = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmtree = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmentrysoal = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmdaftarsoal = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmjawab = 0, 0, 0, 0, C, 50, 50, 798, 485, C
+frmdaftarguru = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmtahunajaran = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmentryKelas = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmdaftarkelas = 0, 0, 0, 0, C, 0, 0, 0, 0, C

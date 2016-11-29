@@ -1,0 +1,4 @@
+VBGROUP 5.0
+StartupProject=prjBKApp.vbp
+Project=DLLBK.vbp
+Project=Chart2\XChart.vbp

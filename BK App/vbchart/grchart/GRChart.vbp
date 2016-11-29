@@ -1,0 +1,36 @@
+Type=Exe
+Object={02B5E320-7292-11CF-93D5-0020AF99504A}#1.0#0; MSCHART.OCX
+Form=..\..\VB Developer Graphics For VB Chart\vb\FX_MSChart.frm
+Module=FX_MSChartBas; ..\..\VB Developer Graphics For VB Chart\vb\FX_MSChart.bas
+Startup="FX_MSchart"
+HelpFile=""
+ExeName32="GRChart.exe"
+Path32="..\..\VB Developer Graphics For VB Chart\vb"
+Command32=""
+Name="GRChart"
+HelpContextID="0"
+CompatibleMode="0"
+MajorVer=1
+MinorVer=0
+RevisionVer=0
+AutoIncrementVer=0
+ServerSupportFiles=0
+VersionCompanyName="GR-FX Pty Limited"
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=0
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=0
+UnroundedFP=0
+StartMode=0
+Unattended=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+
+[SQA]
+DisableUpdate=1
+UpdateMode=0
