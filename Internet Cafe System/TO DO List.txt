@@ -1,0 +1,35 @@
+legend:
+* - pending(bypass)
+
+
+*1. OTHER SERVICES
+
+Database structure
+
+ Fields:
+   ServiceType - (printing,scanning,encoding,encoding and printing)
+
+2. Terminating a current program.
+
+3. DELAYING ACCOUNT - pause/continue account
+   AMOUNT BASED SYSTEM 
+	Addtn'l Data
+		Total Amount
+		Initial Amount  -Initial Start & End Log Time
+
+	-The ELAPSED DATA will be based on the total amount
+	FORMULA 
+		ELAPSE(in Minutes) = TOTAL AMT/(RATE/60)
+
+4. MEMBERSHIP INFORMATION SYSTEM
+	-Discount, free hours, etc
+
+5. CHAT SYSTEM - Enables the client to send message to server & Vice Versa
+
+6. FAKING DATABASE
+	- the main database is hidden
+	- at 1st run of the program, it creates the main DBase where it 
+		copies the fake DBase into unknown filename and directory.
+
+7. DAILY EXPENSES REPORT - internet cafe daily expense monitoring; list down the daily 
+	expenses by the Cafe OIC.

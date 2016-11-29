@@ -1,0 +1,4 @@
+1.UNLOCKING THE SYSTEM & THEN LOCKING IT WILL LOGGED AN ACCOUNT....
+2.unlocking the client and then restarting the client app; the server app didn't update Lock Monitoring Dbase and display
+3.scenario:changing the internet/games/rental rate and then was save: the display and variable value didn't update
+4. Scenario:Saving config/option; the re-initialization of the list view display is not accurate in terms of displaying the icon status

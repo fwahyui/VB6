@@ -1,0 +1,5 @@
+open account
+Amount = (RAte/60) * minutes played
+
+limited account
+Minutes to be played = AmtPaid(Minutes/Rate)

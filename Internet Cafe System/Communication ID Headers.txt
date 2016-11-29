@@ -1,0 +1,12 @@
+The command header is compose of two chars.
+
+<SERVER>
+ OP - UnlockComp w/Open acnt: addt'l data (start time)
+ LT - UnlockComp w/Ltd acnt:  addt'l data (3 chars of amt, internet rate, start time)
+ ET - LockComp/Elapse Time 
+
+
+
+<CLIENT>
+ ID - computer number
+ LO - logout
